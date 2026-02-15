@@ -17,4 +17,4 @@ Experiencia demostrada en **control de stock, análisis de proveedores y KPIs lo
 ### Caso 2 – Compras y Proveedores (Excel)
 - **Objetivo:** Analizar órdenes de compra, seguimiento de proveedores y control de costos.
 - **Herramientas:** Excel, tablas dinámicas, gráficos dinámicos, funciones SUMA, SUMAPRODUCTO, BUSCARX.
-- **Enlace a proyecto completo:** [Caso 2 – Compras y Proveedores](./Caso-2-Compras-Proveedores/README.md)
+- **Enlace a proyecto completo:** [Caso 2 – Compras y Proveedores](https://github.com/Laura-Data-SupplyChain/Caso-2-Compras-y-Proveedores/blob/main/README.md)
