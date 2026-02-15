@@ -10,7 +10,7 @@ Experiencia demostrada en **control de stock, análisis de proveedores y KPIs lo
 ### Caso 1 – Ventas e Inventario (Google Sheets)
 - **Objetivo:** Controlar stock, analizar ventas y generar insights de desempeño.
 - **Herramientas:** Google Sheets, tablas dinámicas, gráficos, validación y limpieza de datos.
-- **Enlace a proyecto completo:** [Caso 1 – Ventas e Inventario](../Caso-1-Analisis-Ventas-Inventario/README.md)
+- **Enlace a proyecto completo:** [Caso 1 – Ventas e Inventario](https://github.com/Laura-Data-SupplyChain/Caso-1-Analisis-Ventas-Inventario/blob/main/README.md)
 
 ---
 
