@@ -1,22 +1,42 @@
-# Sobre el portafolio
+# Portafolio de Análisis de Datos & Operaciones Logísticas
+### Tecnóloga en Comercio Internacional | Especialista en KPIs y Optimización de Supply Chain
 
-Analista en formación con enfoque en **Supply Chain y operaciones**, con proyectos prácticos en **ventas, inventario y compras**.
-Experiencia demostrada en **control de stock, análisis de proveedores y KPIs logísticos**, aplicando **Google Sheets y Excel** para decisiones estratégicas en entornos simulados.
-
----
-
-## Proyectos incluidos
-
-### Caso 1 – Ventas e Inventario (Google Sheets)
-- **Objetivo:** Controlar stock, analizar ventas y generar insights de desempeño.
-- **Herramientas:** Google Sheets, tablas dinámicas, gráficos, validación y limpieza de datos.
-- **Enlace a proyecto completo:** [Caso 1 – Ventas e Inventario](https://github.com/Laura-Data-SupplyChain/Caso-1-Analisis-Ventas-Inventario/blob/main/README.md)
+¡Hola! Soy una profesional enfocada en transformar datos operativos en decisiones estratégicas para la cadena de suministro. Mi enfoque combina el conocimiento técnico en **Comercio Internacional** con el poder analítico de **Excel Avanzado** y **Power BI**.
 
 ---
 
-### Caso 2 – Compras y Proveedores (Excel)
-- **Objetivo:** Analizar órdenes de compra, seguimiento de proveedores y control de costos.
-- **Herramientas:** Excel, tablas dinámicas, gráficos dinámicos, funciones SUMA, SUMAPRODUCTO, BUSCARX.
-- **Enlace a proyecto completo:** [Caso 2 – Compras y Proveedores](https://github.com/Laura-Data-SupplyChain/Caso-2-Compras-y-Proveedores/blob/main/README.md)
+## Proyectos Destacados
 
-### Cas 3 - analisis-logistico-cumplimiento-entregas (Google Sheets / Excel + Looker)
+### 1. 📦 Optimización de Last Mile: Análisis OTIF
+**Herramientas:** `Excel (Power Query)` | `Looker Studio` | `Gestión de KPIs`
+Análisis de cumplimiento de entregas y gestión de devoluciones. Identificación de cuellos de botella geográficos y causas raíz de retrasos operativos.
+* [Ver Proyecto Completo](LINK_A_TU_REPOSITORIO_1)
+
+### 2. ✈️ Logistics Analytics: Control de Carga Aérea
+**Herramientas:** `Power BI (DAX)` | `Vendor Scoring` | `Análisis de Riesgo`
+Modelo de monitoreo para importaciones aéreas con un índice de desempeño (Scoring) para calificar aerolíneas basado en cumplimiento financiero y temporal.
+* [Ver Proyecto Completo](LINK_A_TU_REPOSITORIO_2)
+
+### 3. 🌍 E-commerce Tracking & Shipping: Operaciones Globales
+**Herramientas:** `Advanced Power BI` | `Lead Time Analysis` | `SLA Monitoring`
+Gestión de visibilidad end-to-end para e-commerce transfronterizo. Medición de DOT (Delivery On Time) y análisis de incidencias en Sellers internacionales.
+* [Ver Proyecto Completo](LINK_A_TU_REPOSITORIO_3)
+
+---
+
+## Stack Tecnológico
+* **Análisis de Datos:** Microsoft Excel (Tablas dinámicas, Power Pivot, Macros), Power BI (DAX, Modelado), Google Sheets.
+* **Visualización:** Looker Studio, Dashboards ejecutivos interactivos.
+* **Logística:** Gestión de Inventarios (ABC), Seguimiento de Despachos, Medición de ANS (SLA), Comercio Internacional (Incoterms, Logística de importación).
+
+---
+
+## Mi Valor Agregado
+No solo proceso datos; busco la **eficiencia**. Mi experiencia en entornos operativos de alto volumen (Banca y Seguros) me ha dado la disciplina para garantizar la exactitud del 100% de la información, mientras que mi formación en Comercio Internacional me permite entender el "por qué" detrás de cada número en la cadena de suministro.
+
+---
+
+## 📫 Contacto
+* **LinkedIn:** [Tu Perfil de LinkedIn](LINK_A_TU_LINKEDIN)
+* **Correo:** [Tu Correo Electrónico]
+* **Ubicación:** Bogotá, Colombia (Disponible para trabajo Remoto)
